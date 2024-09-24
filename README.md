@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/joelezan/communityparks/blob/main/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
